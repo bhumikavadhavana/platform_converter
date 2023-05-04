@@ -2,9 +2,12 @@
 
 A new Flutter project.
 
-![Screenshot_20230503_132357](https://user-images.githubusercontent.com/131368253/236236345-effc8669-9903-4989-ab14-b542be9e90b9.png)
-![Screenshot_20230503_132405](https://user-images.githubusercontent.com/131368253/236236355-52bd1c38-9c93-41b6-bc61-d1e0ba505234.png)
-![Screenshot_20230503_132418](https://user-images.githubusercontent.com/131368253/236236360-f2607aa3-ca69-4d91-9ddc-0b42b399e0de.png)
+
+<img align="left" src="https://user-images.githubusercontent.com/131368253/236236345-effc8669-9903-4989-ab14-b542be9e90b9.png" width="220px">
+<img align="left" src="https://user-images.githubusercontent.com/131368253/236236355-52bd1c38-9c93-41b6-bc61-d1e0ba505234.png" width="220px">
+<img src="https://user-images.githubusercontent.com/131368253/236236360-f2607aa3-ca69-4d91-9ddc-0b42b399e0de.png" width="220px">
+
+
 ![Screenshot_20230503_132430](https://user-images.githubusercontent.com/131368253/236236368-6eb325b0-7ced-47c6-84e3-f52a776ff6e2.png)
 ![Screenshot_20230503_132436](https://user-images.githubusercontent.com/131368253/236236373-e4089996-1cf8-4ff5-bec2-31020f884130.png)
 ![Screenshot_20230503_132512](https://user-images.githubusercontent.com/131368253/236236377-a45dbd01-601d-45f0-ac55-61ab4fed2272.png)
