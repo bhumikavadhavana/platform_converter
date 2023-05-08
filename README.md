@@ -32,7 +32,7 @@ A new Flutter project.
 
 <img align="left" src="https://user-images.githubusercontent.com/131368253/236236422-5079af5b-c70f-473d-bf94-0db3680e1719.png" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/131368253/236236428-e032152d-e03a-4041-8f12-6c27afc100e5.png" width="220px">
-<img src="(https://user-images.githubusercontent.com/131368253/236236430-8f9ef6ae-374d-41e0-a560-b0e982df462f.png" width="220px">
+<img src="https://user-images.githubusercontent.com/131368253/236236430-8f9ef6ae-374d-41e0-a560-b0e982df462f.png" width="220px">
 
 
 
